@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UbiUPP</string>
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_mapa">Mapa</string>
+    <string name="nav_buscar">Buscar</string>
+    <string name="ver_mas"><u>Ver más...</u></string>
+</resources>
