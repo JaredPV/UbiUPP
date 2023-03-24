@@ -12,6 +12,9 @@
         android:theme="@style/Theme.UbiUPP"
         tools:targetApi="31">
         <activity
+            android:name=".MasActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name">

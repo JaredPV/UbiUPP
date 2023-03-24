@@ -4,4 +4,6 @@
     <string name="nav_mapa">Mapa</string>
     <string name="nav_buscar">Buscar</string>
     <string name="ver_mas"><u>Ver más...</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
