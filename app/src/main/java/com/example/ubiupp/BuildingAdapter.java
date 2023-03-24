@@ -52,11 +52,13 @@ public class BuildingAdapter extends RecyclerView.Adapter<BuildingAdapter.ViewHo
     public class ViewHolder extends RecyclerView.ViewHolder{
         ImageView buildingImage;
         TextView tv_nombre;
+        TextView tv_vermas;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             buildingImage = itemView.findViewById(R.id.iv_building);
             tv_nombre = itemView.findViewById(R.id.tv_nombre);
+            tv_vermas = itemView.findViewById(R.id.tv_vermas);
 
         }
     }
