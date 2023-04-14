@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220447451580",
+    "project_id": "ubiupp-d2430",
+    "storage_bucket": "ubiupp-d2430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220447451580:android:d2de23a4472d6caf9c63b9",
+        "android_client_info": {
+          "package_name": "com.example.ubiupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220447451580-v3l40tsnecnerq87qoedbeofr4v10v4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKakVbpeCGku47RjOSmuG5Ct6sI9aKOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220447451580-v3l40tsnecnerq87qoedbeofr4v10v4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

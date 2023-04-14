@@ -4,6 +4,6 @@
     <string name="nav_mapa">Mapa</string>
     <string name="nav_buscar">Buscar</string>
     <string name="ver_mas"><u>Ver más...</u></string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_titulo">Conoce mejor tu universidad con UbiUPP</string>
+    <string name="login_texto">A través de UbiUPP podrás identificar cada edificio, oficina y aula dentro de la Universidad Politécnica de Pachuca</string>
 </resources>

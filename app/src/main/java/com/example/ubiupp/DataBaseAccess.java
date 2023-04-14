@@ -55,7 +55,12 @@ public class DataBaseAccess{
             cursor.moveToFirst();
         }
 
-        BuildingData buildingData = new BuildingData(cursor.getString(0),cursor.getString(1),cursor.getString(2),cursor.getString(3),cursor.getString(4));
+        BuildingData buildingData = new BuildingData();
+        buildingData.setBuildingId(cursor.getString(0));
+        buildingData.setBuildingName(cursor.getString(1));
+        buildingData.setBuildingDescription(cursor.getString(2));
+        buildingData.setBuildingLocation(cursor.getString(3));
+        buildingData.setBuildingImage(cursor.getString(4));
         return  buildingData;
     }
 
